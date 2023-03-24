@@ -11,7 +11,7 @@ pipeline {
   stages {
     stage('Checkout Source') {
       steps {
-        git 'https://github.com/sudhamshk/playjenkins.git'
+        git 'https://github.com/Rahulgoyal17/playjenkins.git'
       }
     }
 
